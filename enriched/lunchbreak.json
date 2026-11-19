@@ -1,0 +1,176 @@
+{
+ "slug": "lunchbreak",
+ "name": "Lunchbreak",
+ "domain": "lunchbreak.ai",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "Check your essay against Turnitin, GPTZero, and Copyleaks before you submit. See what the detectors see, and fix phrasing that reads as robotic. Free to check.",
+  "who": "个人用户",
+  "pricing": "free、free",
+  "business": "免费增值 + 订阅"
+ },
+ "kpi": {
+  "revenue30d": "US$35.8K",
+  "mrr": "US$30.4K",
+  "runRate": "US$364.8K",
+  "ratio": 1.18,
+  "revenueMix": "balanced"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "Check your essay against Turnitin, GPTZero, and Copyleaks before you submit. See what the detectors see, and fix phrasing that reads as robotic. Free to check.",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：教育；客群：个人用户。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$30.4K，近 30 天收入 US$35.8K。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：free、free。",
+     "tag": "事实"
+    },
+    {
+     "text": "商业模式：免费增值 + 订阅。",
+     "tag": "推算"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：Lunchbreak AI | Check Your Writing for AI Flags。",
+     "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://lunchbreak.ai/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "近 30 天收入为 MRR 的 1.2 倍，订阅与一次性混合。",
+     "tag": "推算"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$364.8K。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "官网公开社媒入口：Instagram lunchbreak.ai、X lunchbreakai。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "官网博客/更新日志公开 2 个日期节点，最早 2026-07-27，最新 2026-08-12。",
+     "tag": "事实"
+    },
+    {
+     "text": "近期公开更新条目：Does Claude Watermark AI Text?。",
+     "tag": "事实"
+    },
+    {
+     "text": "近期公开更新条目：What Is AI Text Watermarking?。",
+     "tag": "事实"
+    },
+    {
+     "text": "近期公开更新条目：Can Turnitin or GPTZero Detect Watermarked AI Text?。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "存在免费层：优化 free→paid 转化触发点（用量上限/高级功能墙），避免免费层过度消耗成本。",
+     "tag": "推测"
+    },
+    {
+     "text": "赛道打法参考：教育类靠教程视频 + 创作者联盟。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/lunchbreak",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · lunchbreak.ai",
+   "url": "https://lunchbreak.ai/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网定价页",
+   "url": "https://lunchbreak.ai/pricing",
+   "tag": "事实"
+  },
+  {
+   "title": "官网条款页",
+   "url": "https://lunchbreak.ai/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://lunchbreak.ai/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · Instagram",
+   "url": "https://www.instagram.com/lunchbreak.ai",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/lunchbreakai",
+   "tag": "事实"
+  }
+ ]
+}

@@ -56,6 +56,10 @@
     {
      "text": "官网标题：Gomotion。",
      "tag": "事实"
+    },
+    {
+     "text": "开源分发：公开 GitHub 仓库 gomotion-io/gomotion（13 Star），仓库本身是获客与信任背书入口。",
+     "tag": "事实"
     }
    ]
   },
@@ -84,8 +88,12 @@
    "titleKey": "tocSocial",
    "bullets": [
     {
-     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
-     "tag": "推测"
+     "text": "官网公开社媒入口：GitHub gomotion-io/gomotion、Instagram gomotion.io、LinkedIn company/gomotion-io、YouTube @gomotion-io。",
+     "tag": "事实"
+    },
+    {
+     "text": "GitHub 仓库公开 topics：ai、ai-agents、ai-assistant、ai-tools、nextjs、oss。",
+     "tag": "事实"
     }
    ]
   },
@@ -95,8 +103,12 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "公开 GitHub 仓库创建于 2026-01-17（仓库创建时间，不等于产品上线时间）。",
+     "tag": "事实"
+    },
+    {
+     "text": "仓库最近一次公开推送：2026-10-06。",
+     "tag": "事实"
     }
    ]
   },
@@ -130,6 +142,26 @@
   {
    "title": "官网条款页",
    "url": "https://gomotion.io/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "公开 GitHub 仓库 · gomotion-io/gomotion",
+   "url": "https://github.com/gomotion-io/gomotion",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · Instagram",
+   "url": "https://www.instagram.com/gomotion.io",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · LinkedIn",
+   "url": "https://www.linkedin.com/company/gomotion-io",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · YouTube",
+   "url": "https://www.youtube.com/@gomotion-io",
    "tag": "事实"
   }
  ]

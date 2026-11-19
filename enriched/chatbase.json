@@ -56,6 +56,10 @@
     {
      "text": "官网标题：Customer-facing AI Agent for Support and Sales | Chatbase。",
      "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://chatbase.co/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
     }
    ]
   },
@@ -84,8 +88,8 @@
    "titleKey": "tocSocial",
    "bullets": [
     {
-     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
-     "tag": "推测"
+     "text": "官网公开社媒入口：Instagram chatbase_co、LinkedIn company/chatbase-co、X chatbase、YouTube @chatbase_。",
+     "tag": "事实"
     },
     {
      "text": "已被公开目录收录：IndieAI Directory。",
@@ -99,8 +103,8 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：Introducing Know Your Agent on Chatbase、All blogs、Introducing WhatsApp Business app for Chatbase。",
+     "tag": "事实"
     }
    ]
   },
@@ -152,6 +156,31 @@
   {
    "title": "IndieAI Directory",
    "url": "https://indieai.directory/tools/chatbase/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://chatbase.co/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · Instagram",
+   "url": "https://www.instagram.com/chatbase_co",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · LinkedIn",
+   "url": "https://www.linkedin.com/company/chatbase-co",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/chatbase",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · YouTube",
+   "url": "https://www.youtube.com/@chatbase_",
    "tag": "事实"
   }
  ]

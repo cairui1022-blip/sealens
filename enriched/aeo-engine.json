@@ -56,6 +56,10 @@
     {
      "text": "官网标题：The AI SEO Agency That Wins Brands AI Citations | AEO Engine。",
      "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://aeoengine.ai/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
     }
    ]
   },
@@ -84,8 +88,8 @@
    "titleKey": "tocSocial",
    "bullets": [
     {
-     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
-     "tag": "推测"
+     "text": "官网公开社媒入口：LinkedIn company/aeo-engine、YouTube @aeo-engine。",
+     "tag": "事实"
     }
    ]
   },
@@ -95,8 +99,8 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：Essential AEO Resources、Best Generative Engine Optimization for Small Ecommerce 2026、AEO Best Practices 2026。",
+     "tag": "事实"
     }
    ]
   },
@@ -143,6 +147,21 @@
   {
    "title": "官网条款页",
    "url": "https://aeoengine.ai/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://aeoengine.ai/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · LinkedIn",
+   "url": "https://www.linkedin.com/company/aeo-engine",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · YouTube",
+   "url": "https://www.youtube.com/@aeo-engine",
    "tag": "事实"
   }
  ]

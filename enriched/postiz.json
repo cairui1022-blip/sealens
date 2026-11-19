@@ -56,6 +56,14 @@
     {
      "text": "官网标题：Postiz: The Agentic Social Media Scheduling Platform。",
      "tag": "事实"
+    },
+    {
+     "text": "开源分发：公开 GitHub 仓库 gitroomhq/postiz-app（41,939 Star），仓库本身是获客与信任背书入口。",
+     "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://postiz.com/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
     }
    ]
   },
@@ -84,11 +92,15 @@
    "titleKey": "tocSocial",
    "bullets": [
     {
-     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
-     "tag": "推测"
+     "text": "官网公开社媒入口：GitHub gitroomhq/postiz-app、LinkedIn company/postiz、X getpostiz、YouTube @getpostiz。",
+     "tag": "事实"
     },
     {
      "text": "已被公开目录收录：IndieAI Directory。",
+     "tag": "事实"
+    },
+    {
+     "text": "GitHub 仓库公开 topics：nextjs、open-source、open-source-social-media-scheduling-tool、oss、postiz-cloud、postiz-hosted。",
      "tag": "事实"
     }
    ]
@@ -99,8 +111,16 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "公开 GitHub 仓库创建于 2023-07-08（仓库创建时间，不等于产品上线时间）。",
+     "tag": "事实"
+    },
+    {
+     "text": "仓库最近一次公开推送：2026-11-18。",
+     "tag": "事实"
+    },
+    {
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：All posts、Ready to get started?。",
+     "tag": "事实"
     }
    ]
   },
@@ -152,6 +172,31 @@
   {
    "title": "IndieAI Directory",
    "url": "https://indieai.directory/tools/postiz/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://postiz.com/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "公开 GitHub 仓库 · gitroomhq/postiz-app",
+   "url": "https://github.com/gitroomhq/postiz-app",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · LinkedIn",
+   "url": "https://www.linkedin.com/company/postiz",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/getpostiz",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · YouTube",
+   "url": "https://www.youtube.com/@getpostiz",
    "tag": "事实"
   }
  ]

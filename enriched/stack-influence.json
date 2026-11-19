@@ -1,0 +1,173 @@
+{
+ "slug": "stack-influence",
+ "name": "Stack Influence",
+ "domain": "stackinfluence.com",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "Stack Influence is the leading micro influencer marketing platform. Run micro influencer marketing campaigns for your eCommerce business.",
+  "who": "中小企业与创业者",
+  "pricing": "$499 / mo、Free、Free",
+  "business": "免费增值 + 订阅"
+ },
+ "kpi": {
+  "revenue30d": "US$875.8K",
+  "mrr": "US$26.4K",
+  "runRate": "US$316.8K",
+  "ratio": 33.17,
+  "revenueMix": "one-time-heavy"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "Stack Influence is the leading micro influencer marketing platform. Run micro influencer marketing campaigns for your eCommerce business.",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：营销；客群：中小企业与创业者。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$26.4K，近 30 天收入 US$875.8K。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：$499 / mo、Free、Free。",
+     "tag": "事实"
+    },
+    {
+     "text": "商业模式：免费增值 + 订阅。",
+     "tag": "推算"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：Micro Influencer Marketing Platform Services - Stack Influence。",
+     "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://stackinfluence.com/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "近 30 天收入约为 MRR 的 33.2 倍，超出部分很可能来自年付或一次性买断。",
+     "tag": "推算"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$316.8K。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "官网公开社媒入口：Instagram stackinfluence、LinkedIn company/stack-influence、X stackinfluence、YouTube @stackinfluence。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：Jewelry Brand Scales Sales 8x with Micro-Influencer Demand、Evergrace Home&#x27;s Amazon Breakout: 8X Sales in Just 5 Months、Key Takeaways。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "现金流前置靠年付/买断，但需盯续费与一次性收入可持续性；建议补订阅锚点提升 LTV。",
+     "tag": "推测"
+    },
+    {
+     "text": "存在免费层：优化 free→paid 转化触发点（用量上限/高级功能墙），避免免费层过度消耗成本。",
+     "tag": "推测"
+    },
+    {
+     "text": "赛道打法参考：营销类靠 Reddit/社区外reach + 案例研究。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/stack-influence",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · stackinfluence.com",
+   "url": "https://stackinfluence.com/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网定价页",
+   "url": "https://stackinfluence.com/pricing",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://stackinfluence.com/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · Instagram",
+   "url": "https://www.instagram.com/stackinfluence",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · LinkedIn",
+   "url": "https://www.linkedin.com/company/stack-influence",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/stackinfluence",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · YouTube",
+   "url": "https://www.youtube.com/@stackinfluence",
+   "tag": "事实"
+  }
+ ]
+}

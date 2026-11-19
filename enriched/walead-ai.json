@@ -1,0 +1,174 @@
+{
+ "slug": "walead-ai",
+ "name": "WaLead AI",
+ "domain": "walead.ai",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "Crea agentes de IA, enriquece en tiempo real con la mejor base de datos de España y automatiza tu prospección en LinkedIn. Encuentra, enriquece, contacta y cualifica desde una sola herramienta.",
+  "who": "中小企业与创业者",
+  "pricing": "待补充",
+  "business": "订阅 + 一次性/年付"
+ },
+ "kpi": {
+  "revenue30d": "US$72.1K",
+  "mrr": "US$30.5K",
+  "runRate": "US$366.0K",
+  "ratio": 2.36,
+  "revenueMix": "one-time-heavy"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "Crea agentes de IA, enriquece en tiempo real con la mejor base de datos de España y automatiza tu prospección en LinkedIn. Encuentra, enriquece, contacta y cualifica desde una sola herramienta.",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：人工智能；客群：中小企业与创业者。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$30.5K，近 30 天收入 US$72.1K。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：待补充。",
+     "tag": "推测"
+    },
+    {
+     "text": "商业模式：订阅 + 一次性/年付。",
+     "tag": "推算"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：WaLead: Leads y mucho más. La herramienta GTM para vender en España · WaLead。",
+     "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://walead.ai/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "近 30 天收入约为 MRR 的 2.4 倍，超出部分很可能来自年付或一次性买断。",
+     "tag": "推算"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$366.0K。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "官网公开社媒入口：Instagram walead_ai、LinkedIn company/walead-ai、YouTube @walead-ai、YouTube @walead-ai-español。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：Una BBDD que se enriquece sola、4 superpoderes para tu equipo de Go-To-Market、16M de leads españoles y 55M de empresas de todo el mundo。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "现金流前置靠年付/买断，但需盯续费与一次性收入可持续性；建议补订阅锚点提升 LTV。",
+     "tag": "推测"
+    },
+    {
+     "text": "赛道打法参考：AI 类靠 SEO/AEO + 目录收录 + 用例内容获客。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/walead-ai",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · walead.ai",
+   "url": "https://walead.ai/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网定价页",
+   "url": "https://walead.ai/pricing",
+   "tag": "事实"
+  },
+  {
+   "title": "官网条款页",
+   "url": "https://walead.ai/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://walead.ai/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · Instagram",
+   "url": "https://www.instagram.com/walead_ai",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · LinkedIn",
+   "url": "https://www.linkedin.com/company/walead-ai",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · YouTube",
+   "url": "https://www.youtube.com/@walead-ai",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · YouTube",
+   "url": "https://www.youtube.com/@walead-ai-español",
+   "tag": "事实"
+  }
+ ]
+}

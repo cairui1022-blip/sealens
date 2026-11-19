@@ -56,6 +56,10 @@
     {
      "text": "官网标题：Windmill Growth | LinkedIn Ghostwriting for B2B Founders。",
      "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://windmillgrowth.com/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
     }
    ]
   },
@@ -84,8 +88,8 @@
    "titleKey": "tocSocial",
    "bullets": [
     {
-     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
-     "tag": "推测"
+     "text": "官网公开社媒入口：LinkedIn company/windmill-growth、X WindmillGrowth。",
+     "tag": "事实"
     }
    ]
   },
@@ -95,8 +99,8 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：Guides &amp; How-Tos、Templates &amp; Checklists、Buying Guides &amp; Comparisons。",
+     "tag": "事实"
     }
    ]
   },
@@ -133,6 +137,21 @@
   {
    "title": "官网首页 · windmillgrowth.com",
    "url": "https://windmillgrowth.com/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://windmillgrowth.com/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · LinkedIn",
+   "url": "https://www.linkedin.com/company/windmill-growth",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/WindmillGrowth",
    "tag": "事实"
   }
  ]

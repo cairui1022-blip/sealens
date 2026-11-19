@@ -7,14 +7,14 @@
   "what": "Alchie t&#x27;interviewe, extrait tes meilleures idées et rédige des posts LinkedIn qui te ressemblent, avec les codes de ceux qui performent.",
   "who": "创作者",
   "pricing": "待补充",
-  "business": "待补充"
+  "business": "订阅制"
  },
  "kpi": {
   "revenue30d": "US$11.0K",
   "mrr": "US$9,851",
   "runRate": "US$118.2K",
-  "ratio": 0.0,
-  "revenueMix": "unknown"
+  "ratio": 1.12,
+  "revenueMix": "subscription-led"
  },
  "sections": [
   {
@@ -39,8 +39,8 @@
      "tag": "推测"
     },
     {
-     "text": "商业模式：待补充。",
-     "tag": "推测"
+     "text": "商业模式：订阅制。",
+     "tag": "推算"
     }
    ]
   },
@@ -56,6 +56,10 @@
     {
      "text": "官网标题：Alchie · Transforme tes idées en posts LinkedIn。",
      "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://alchie.fr/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
     }
    ]
   },
@@ -65,8 +69,8 @@
    "titleKey": "tocPlays",
    "bullets": [
     {
-     "text": "收入结构待补充。",
-     "tag": "推测"
+     "text": "近 30 天收入与 MRR 基本持平（1.12 倍），以经常性订阅为主。",
+     "tag": "推算"
     },
     {
      "text": "按 MRR 年化运行率约 US$118.2K。",
@@ -95,8 +99,8 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：Idées de visuels LinkedIn : formats, données, typo et couleurs、Parler prix sur LinkedIn : poster sans afficher de grille、Adapter son style sur LinkedIn sans perdre sa voix。",
+     "tag": "事实"
     }
    ]
   },
@@ -105,6 +109,10 @@
    "num": "06",
    "titleKey": "tocAdvice",
    "bullets": [
+    {
+     "text": "经常性订阅为主，优先做留存与扩展收入（seat/usage 升级），而非一次性促销。",
+     "tag": "推测"
+    },
     {
      "text": "赛道打法参考：AI 类靠 SEO/AEO + 目录收录 + 用例内容获客。",
      "tag": "推测"
@@ -135,6 +143,11 @@
   {
    "title": "官网条款页",
    "url": "https://alchie.fr/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://alchie.fr/blog",
    "tag": "事实"
   }
  ]

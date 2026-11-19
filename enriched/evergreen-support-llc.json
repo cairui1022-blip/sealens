@@ -1,0 +1,149 @@
+{
+ "slug": "evergreen-support-llc",
+ "name": "Evergreen Support",
+ "domain": "evergreensupport.co",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "Stop drowning in support tickets. Evergreen is a US-based customer support agency providing fractional teams for online businesses. Real humans, real results. Book a call.",
+  "who": "中小企业与创业者",
+  "pricing": "待补充",
+  "business": "订阅制"
+ },
+ "kpi": {
+  "revenue30d": "US$22.7K",
+  "mrr": "US$25.5K",
+  "runRate": "US$306.0K",
+  "ratio": 0.89,
+  "revenueMix": "subscription-led"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "Stop drowning in support tickets. Evergreen is a US-based customer support agency providing fractional teams for online businesses. Real humans, real results. Book a call.",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：客户支持；客群：中小企业与创业者。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$25.5K，近 30 天收入 US$22.7K。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：待补充。",
+     "tag": "推测"
+    },
+    {
+     "text": "商业模式：订阅制。",
+     "tag": "推算"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：Evergreen: The Human Customer Support Agency for SaaS &amp; Ecomm。",
+     "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://evergreensupport.co/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "近 30 天收入与 MRR 基本持平（0.89 倍），以经常性订阅为主。",
+     "tag": "推算"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$306.0K。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：Actionable insights for founders and small business owners. Learn how to deliver amazing, human-powered customer care and grow your online business.、How a Customer Service Agency Elevates E-Commerce CX with Email (and Boosts Sales)、Why SaaS Startups Should Embrace a Customer Support Agency Early On (Email Support)。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "经常性订阅为主，优先做留存与扩展收入（seat/usage 升级），而非一次性促销。",
+     "tag": "推测"
+    },
+    {
+     "text": "赛道打法参考：靠垂直社区 + 内容 SEO 获客。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/evergreen-support-llc",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · evergreensupport.co",
+   "url": "https://evergreensupport.co/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网定价页",
+   "url": "https://evergreensupport.co/pricing",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://evergreensupport.co/blog",
+   "tag": "事实"
+  }
+ ]
+}

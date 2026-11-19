@@ -84,8 +84,8 @@
    "titleKey": "tocSocial",
    "bullets": [
     {
-     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
-     "tag": "推测"
+     "text": "官网公开社媒入口：X codedex_io。",
+     "tag": "事实"
     }
    ]
   },
@@ -139,6 +139,11 @@
   {
    "title": "官网条款页",
    "url": "https://codedex.io/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/codedex_io",
    "tag": "事实"
   }
  ]

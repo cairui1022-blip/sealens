@@ -1,0 +1,171 @@
+{
+ "slug": "apiframe",
+ "name": "Apiframe",
+ "domain": "apiframe.ai",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "One unified API for AI image, video, and music generation. Access 70+ models through a single REST endpoint with async jobs, webhooks, and CDN hosting.",
+  "who": "开发者",
+  "pricing": "$39/mo、free、$39/mo、Free",
+  "business": "免费增值 + 订阅"
+ },
+ "kpi": {
+  "revenue30d": "US$40.5K",
+  "mrr": "US$31.7K",
+  "runRate": "US$380.4K",
+  "ratio": 1.28,
+  "revenueMix": "balanced"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "One unified API for AI image, video, and music generation. Access 70+ models through a single REST endpoint with async jobs, webhooks, and CDN hosting.",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：人工智能；客群：开发者。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$31.7K，近 30 天收入 US$40.5K。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：$39/mo、free、$39/mo、Free。",
+     "tag": "事实"
+    },
+    {
+     "text": "商业模式：免费增值 + 订阅。",
+     "tag": "推算"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：AI Image, Music & Video Generation API – Apiframe。",
+     "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://apiframe.ai/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "近 30 天收入为 MRR 的 1.3 倍，订阅与一次性混合。",
+     "tag": "推算"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$380.4K。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "官网公开社媒入口：X apiframe_hq。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "官网博客/更新日志公开 32 个日期节点，最早 2025-11-30，最新 2026-10-04。",
+     "tag": "事实"
+    },
+    {
+     "text": "近期公开更新条目：Best Trial vs Paid Media APIs。",
+     "tag": "事实"
+    },
+    {
+     "text": "近期公开更新条目：Latest posts。",
+     "tag": "事实"
+    },
+    {
+     "text": "近期公开更新条目：Best Unified APIs for Multilingual Image Text。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "存在免费层：优化 free→paid 转化触发点（用量上限/高级功能墙），避免免费层过度消耗成本。",
+     "tag": "推测"
+    },
+    {
+     "text": "赛道打法参考：AI 类靠 SEO/AEO + 目录收录 + 用例内容获客。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/apiframe",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · apiframe.ai",
+   "url": "https://apiframe.ai/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网定价页",
+   "url": "https://apiframe.ai/pricing",
+   "tag": "事实"
+  },
+  {
+   "title": "官网条款页",
+   "url": "https://apiframe.ai/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://apiframe.ai/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/apiframe_hq",
+   "tag": "事实"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "slug": "verbi",
+ "name": "Verbi",
+ "domain": "apps.apple.com",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "在 App Store 上查找适用于 iPhone、iPad、Mac 等设备的 App 和游戏。",
+  "who": "个人用户",
+  "pricing": "待补充",
+  "business": "订阅制"
+ },
+ "kpi": {
+  "revenue30d": "US$16.1K",
+  "mrr": "US$24.8K",
+  "runRate": "US$297.6K",
+  "ratio": 0.65,
+  "revenueMix": "subscription-led"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "在 App Store 上查找适用于 iPhone、iPad、Mac 等设备的 App 和游戏。",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：教育；客群：个人用户。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$24.8K，近 30 天收入 US$16.1K。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：待补充。",
+     "tag": "推测"
+    },
+    {
+     "text": "商业模式：订阅制。",
+     "tag": "推算"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：‎iPhone 版“Today” - App Store。",
+     "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://apps.apple.com/changelog），是可核实的自有内容渠道。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "近 30 天现金收入低于 MRR（0.65 倍）：MRR 可能含年付合约折算或快照口径差异，经常性订阅为主，现金回收节奏待核实。",
+     "tag": "推算"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$297.6K。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "官网公开社媒入口：Instagram appstore、X AppStore。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：记录你跑过的每一步、闪转腾挪，飞檐走壁、我们喜爱的独立游戏。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "经常性订阅为主，优先做留存与扩展收入（seat/usage 升级），而非一次性促销。",
+     "tag": "推测"
+    },
+    {
+     "text": "赛道打法参考：教育类靠教程视频 + 创作者联盟。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/verbi",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · apps.apple.com",
+   "url": "https://apps.apple.com/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网条款页",
+   "url": "https://apps.apple.com/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://apps.apple.com/changelog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · Instagram",
+   "url": "https://www.instagram.com/appstore",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/AppStore",
+   "tag": "事实"
+  }
+ ]
+}

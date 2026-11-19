@@ -56,6 +56,10 @@
     {
      "text": "官网标题：Chat GPT po polsku, sztuczna inteligencja bez rejestracji | czat.ai。",
      "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://czat.ai/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
     }
    ]
   },
@@ -95,8 +99,20 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "官网博客/更新日志公开 2 个日期节点，最早 2026-11-17，最新 2026-11-18。",
+     "tag": "事实"
+    },
+    {
+     "text": "近期公开更新条目：Dlaczego wybrać。",
+     "tag": "事实"
+    },
+    {
+     "text": "近期公开更新条目：Zacznij w sekundę.。",
+     "tag": "事实"
+    },
+    {
+     "text": "近期公开更新条目：Zarejestruj się。",
+     "tag": "事实"
     }
    ]
   },
@@ -134,6 +150,11 @@
   {
    "title": "官网定价页",
    "url": "https://czat.ai/pricing",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://czat.ai/blog",
    "tag": "事实"
   }
  ]

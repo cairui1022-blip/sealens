@@ -56,6 +56,10 @@
     {
      "text": "官网标题：Supergrow: LinkedIn Content Platform for Teams &amp; Individuals。",
      "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://supergrow.ai/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
     }
    ]
   },
@@ -84,8 +88,8 @@
    "titleKey": "tocSocial",
    "bullets": [
     {
-     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
-     "tag": "推测"
+     "text": "官网公开社媒入口：LinkedIn company/supergrowai、X supergrowai、YouTube @Supergrowai。",
+     "tag": "事实"
     }
    ]
   },
@@ -95,8 +99,8 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：17 Best Black Friday Software Deals for 2026 to Grow Your Business、LinkedIn Character Limits in 2026: Posts, Comments, Headlines and Articles、What&#x27;s new in Supergrow: October 2026。",
+     "tag": "事实"
     }
    ]
   },
@@ -138,6 +142,26 @@
   {
    "title": "官网定价页",
    "url": "https://supergrow.ai/pricing",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://supergrow.ai/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · LinkedIn",
+   "url": "https://www.linkedin.com/company/supergrowai",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/supergrowai",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · YouTube",
+   "url": "https://www.youtube.com/@Supergrowai",
    "tag": "事实"
   }
  ]

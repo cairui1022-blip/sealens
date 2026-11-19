@@ -1,0 +1,169 @@
+{
+ "slug": "pokeitem",
+ "name": "PokéItem",
+ "domain": "pokeitem.fr",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "L&#x27;appli créée en France, utilisée dans le monde entier, pour scanner, classer et estimer vos cartes Pokémon, One Piece, Yu-Gi-Oh!, Magic, Lorcana… en 9 devises.",
+  "who": "个人用户",
+  "pricing": "待补充",
+  "business": "订阅 + 一次性/年付"
+ },
+ "kpi": {
+  "revenue30d": "US$32.0K",
+  "mrr": "US$21.0K",
+  "runRate": "US$252.0K",
+  "ratio": 1.52,
+  "revenueMix": "one-time-heavy"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "L&#x27;appli créée en France, utilisée dans le monde entier, pour scanner, classer et estimer vos cartes Pokémon, One Piece, Yu-Gi-Oh!, Magic, Lorcana… en 9 devises.",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：移动应用；客群：个人用户。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$21.0K，近 30 天收入 US$32.0K。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：待补充。",
+     "tag": "推测"
+    },
+    {
+     "text": "商业模式：订阅 + 一次性/年付。",
+     "tag": "推算"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：PokéItem — Gérez vos collections Pokémon TCG et One Piece。",
+     "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://pokeitem.fr/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "近 30 天收入约为 MRR 的 1.5 倍，超出部分很可能来自年付或一次性买断。",
+     "tag": "推算"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$252.0K。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "官网公开社媒入口：Discord pokeitem、Instagram pokeitem_、X pokeitem_、YouTube @pokeitem。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：La mise à jour des 60 000 utilisateurs : PokéItem 1.3.0, widgets, classeurs, Yu-Gi-Oh! et Dragon Ball Z、Cartes les plus chères d&#x27;Évolution Céleste : le top 10 en 2026、Cartes les plus chères de 151 : le classement Écarlate et Violet。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "现金流前置靠年付/买断，但需盯续费与一次性收入可持续性；建议补订阅锚点提升 LTV。",
+     "tag": "推测"
+    },
+    {
+     "text": "赛道打法参考：靠垂直社区 + 内容 SEO 获客。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/pokeitem",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · pokeitem.fr",
+   "url": "https://pokeitem.fr/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网条款页",
+   "url": "https://pokeitem.fr/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://pokeitem.fr/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · Discord",
+   "url": "https://discord.gg/pokeitem",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · Instagram",
+   "url": "https://www.instagram.com/pokeitem_",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/pokeitem_",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · YouTube",
+   "url": "https://www.youtube.com/@pokeitem",
+   "tag": "事实"
+  }
+ ]
+}

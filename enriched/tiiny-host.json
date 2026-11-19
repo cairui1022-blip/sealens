@@ -56,6 +56,10 @@
     {
      "text": "官网标题：tiiny.host - The simplest way to share your work online。",
      "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://tiiny.host/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
     }
    ]
   },
@@ -95,8 +99,20 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "官网博客/更新日志公开 8 个日期节点，最早 2026-07-22，最新 2026-10-20。",
+     "tag": "事实"
+    },
+    {
+     "text": "近期公开更新条目：Search the blog。",
+     "tag": "事实"
+    },
+    {
+     "text": "近期公开更新条目：Latest。",
+     "tag": "事实"
+    },
+    {
+     "text": "近期公开更新条目：Create Your Website Without Any Code in Less Than 5 Minutes。",
+     "tag": "事实"
     }
    ]
   },
@@ -135,6 +151,11 @@
   {
    "title": "官网条款页",
    "url": "https://tiiny.host/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://tiiny.host/blog",
    "tag": "事实"
   }
  ]

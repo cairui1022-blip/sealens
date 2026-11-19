@@ -84,8 +84,8 @@
    "titleKey": "tocSocial",
    "bullets": [
     {
-     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
-     "tag": "推测"
+     "text": "官网公开社媒入口：LinkedIn company/convertiai、YouTube @convertiai。",
+     "tag": "事实"
     }
    ]
   },
@@ -138,6 +138,16 @@
   {
    "title": "官网条款页",
    "url": "https://converti.ai/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · LinkedIn",
+   "url": "https://www.linkedin.com/company/convertiai",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · YouTube",
+   "url": "https://www.youtube.com/@convertiai",
    "tag": "事实"
   }
  ]

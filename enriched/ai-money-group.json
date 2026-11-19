@@ -13,8 +13,8 @@
   "revenue30d": "US$15.6K",
   "mrr": "US$9,241",
   "runRate": "US$110.9K",
-  "ratio": 0.0,
-  "revenueMix": "unknown"
+  "ratio": 1.69,
+  "revenueMix": "one-time-heavy"
  },
  "sections": [
   {
@@ -65,8 +65,8 @@
    "titleKey": "tocPlays",
    "bullets": [
     {
-     "text": "收入结构待补充。",
-     "tag": "推测"
+     "text": "近 30 天收入约为 MRR 的 1.7 倍，超出部分很可能来自年付或一次性买断。",
+     "tag": "推算"
     },
     {
      "text": "按 MRR 年化运行率约 US$110.9K。",
@@ -105,6 +105,10 @@
    "num": "06",
    "titleKey": "tocAdvice",
    "bullets": [
+    {
+     "text": "现金流前置靠年付/买断，但需盯续费与一次性收入可持续性；建议补订阅锚点提升 LTV。",
+     "tag": "推测"
+    },
     {
      "text": "存在免费层：优化 free→paid 转化触发点（用量上限/高级功能墙），避免免费层过度消耗成本。",
      "tag": "推测"

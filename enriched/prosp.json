@@ -56,6 +56,10 @@
     {
      "text": "官网标题：Prosp | LinkedIn outreach so personal, prospects actually reply。",
      "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://prosp.ai/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
     }
    ]
   },
@@ -84,8 +88,8 @@
    "titleKey": "tocSocial",
    "bullets": [
     {
-     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
-     "tag": "推测"
+     "text": "官网公开社媒入口：Instagram prosp_ai、YouTube @Prosp_AI。",
+     "tag": "事实"
     }
    ]
   },
@@ -95,8 +99,8 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：The 7 best LinkedIn outreach tools in 2026, honestly ranked、Prosp vs HeyReach vs Waalaxy vs Dripify: an honest comparison、LinkedIn outreach without getting restricted: what the limits actually are。",
+     "tag": "事实"
     }
    ]
   },
@@ -143,6 +147,21 @@
   {
    "title": "官网条款页",
    "url": "https://prosp.ai/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://prosp.ai/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · Instagram",
+   "url": "https://www.instagram.com/prosp_ai",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · YouTube",
+   "url": "https://www.youtube.com/@Prosp_AI",
    "tag": "事实"
   }
  ]

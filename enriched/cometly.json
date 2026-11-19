@@ -56,6 +56,10 @@
     {
      "text": "官网标题：Cometly | Marketing Attribution Software。",
      "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://cometly.com/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
     }
    ]
   },
@@ -84,8 +88,8 @@
    "titleKey": "tocSocial",
    "bullets": [
     {
-     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
-     "tag": "推测"
+     "text": "官网公开社媒入口：Instagram cometlyai、LinkedIn company/cometly、X cometlyapp、YouTube @cometly。",
+     "tag": "事实"
     }
    ]
   },
@@ -95,8 +99,8 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：9 Best Free Scheduling Calendar Tools to Streamline Your Bookings in 2026、Adobe Marketing Analytics: What It Does and Where B2B SaaS Teams Hit Limits、CLV (Customer Lifetime Value): How to Calculate and Use It in B2B SaaS。",
+     "tag": "事实"
     }
    ]
   },
@@ -139,6 +143,31 @@
   {
    "title": "官网条款页",
    "url": "https://cometly.com/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://cometly.com/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · Instagram",
+   "url": "https://www.instagram.com/cometlyai",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · LinkedIn",
+   "url": "https://www.linkedin.com/company/cometly",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/cometlyapp",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · YouTube",
+   "url": "https://www.youtube.com/@cometly",
    "tag": "事实"
   }
  ]

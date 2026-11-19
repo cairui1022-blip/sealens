@@ -1,0 +1,181 @@
+{
+ "slug": "promptwise",
+ "name": "PromptWise",
+ "domain": "promptwise.com",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "AI creative studio with 40+ image, video and audio models on one subscription: Seedance 2.5, Kling 3.0, Veo 3.1, Nano Banana Pro.",
+  "who": "创作者",
+  "pricing": "$19/mo、$159/year、$19 /mo、free",
+  "business": "免费增值 + 订阅"
+ },
+ "kpi": {
+  "revenue30d": "US$99.4K",
+  "mrr": "US$67.7K",
+  "runRate": "US$812.4K",
+  "ratio": 1.47,
+  "revenueMix": "balanced"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "AI creative studio with 40+ image, video and audio models on one subscription: Seedance 2.5, Kling 3.0, Veo 3.1, Nano Banana Pro.",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：人工智能；客群：创作者。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$67.7K，近 30 天收入 US$99.4K。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：$19/mo、$159/year、$19 /mo、free。",
+     "tag": "事实"
+    },
+    {
+     "text": "商业模式：免费增值 + 订阅。",
+     "tag": "推算"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：PromptWise — AI Creative Studio for Images, Video, Audio & UGC。",
+     "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://promptwise.com/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "近 30 天收入为 MRR 的 1.5 倍，订阅与一次性混合。",
+     "tag": "推算"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$812.4K。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "官网公开社媒入口：Instagram trypromptwise、LinkedIn company/prompt-wise、X trypromptwise。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "官网博客/更新日志公开 5 个日期节点，最早 2026-04-03，最新 2026-10-24。",
+     "tag": "事实"
+    },
+    {
+     "text": "近期公开更新条目：How to Make AI UGC Ads That Feel Real, From the Brief to the Final Cut。",
+     "tag": "事实"
+    },
+    {
+     "text": "近期公开更新条目：How to Make AI Videos That Look Planned, Not Random。",
+     "tag": "事实"
+    },
+    {
+     "text": "近期公开更新条目：31 Nano Banana Pro Prompts You Can Copy, Grouped by the Job You&#39;re Doing。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "存在免费层：优化 free→paid 转化触发点（用量上限/高级功能墙），避免免费层过度消耗成本。",
+     "tag": "推测"
+    },
+    {
+     "text": "赛道打法参考：AI 类靠 SEO/AEO + 目录收录 + 用例内容获客。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/promptwise",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · promptwise.com",
+   "url": "https://promptwise.com/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网定价页",
+   "url": "https://promptwise.com/pricing",
+   "tag": "事实"
+  },
+  {
+   "title": "官网条款页",
+   "url": "https://promptwise.com/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://promptwise.com/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · Instagram",
+   "url": "https://www.instagram.com/trypromptwise",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · LinkedIn",
+   "url": "https://www.linkedin.com/company/prompt-wise",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/trypromptwise",
+   "tag": "事实"
+  }
+ ]
+}

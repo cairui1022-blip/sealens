@@ -56,6 +56,10 @@
     {
      "text": "官网标题：Zigpoll — Post-Purchase &amp; On-Site Surveys for Shopify。",
      "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://zigpoll.com/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
     }
    ]
   },
@@ -84,8 +88,8 @@
    "titleKey": "tocSocial",
    "bullets": [
     {
-     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
-     "tag": "推测"
+     "text": "官网公开社媒入口：X zigpoll。",
+     "tag": "事实"
     }
    ]
   },
@@ -95,8 +99,8 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：Prose for Pros.、Start collecting feedback in 5 minutes.、Questions or Feedback?。",
+     "tag": "事实"
     }
    ]
   },
@@ -134,6 +138,16 @@
   {
    "title": "官网定价页",
    "url": "https://zigpoll.com/pricing",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://zigpoll.com/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/zigpoll",
    "tag": "事实"
   }
  ]

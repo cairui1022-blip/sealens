@@ -56,6 +56,10 @@
     {
      "text": "官网标题：Kibu - Focus on Excellent Service. We Handle The Rest.。",
      "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://kibu.com/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
     }
    ]
   },
@@ -84,8 +88,8 @@
    "titleKey": "tocSocial",
    "bullets": [
     {
-     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
-     "tag": "推测"
+     "text": "官网公开社媒入口：Instagram kibuhq、LinkedIn company/kibuhq、X kibuhq、YouTube @kibuTV、YouTube @kibuhq。",
+     "tag": "事实"
     }
    ]
   },
@@ -95,8 +99,8 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：Lessons from the Kibu Roundtable: Aging and Times of Transition、Why Providers Make the Switch to Kibu: A Conversation with Zoey、AI Policy for Providers: What the Rules Actually Say in 2026。",
+     "tag": "事实"
     }
    ]
   },
@@ -129,6 +133,36 @@
   {
    "title": "官网首页 · kibu.com",
    "url": "https://kibu.com/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://kibu.com/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · Instagram",
+   "url": "https://www.instagram.com/kibuhq",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · LinkedIn",
+   "url": "https://www.linkedin.com/company/kibuhq",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/kibuhq",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · YouTube",
+   "url": "https://www.youtube.com/@kibuTV",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · YouTube",
+   "url": "https://www.youtube.com/@kibuhq",
    "tag": "事实"
   }
  ]

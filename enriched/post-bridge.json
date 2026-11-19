@@ -1,0 +1,184 @@
+{
+ "slug": "post-bridge",
+ "name": "Post Bridge",
+ "domain": "post-bridge.com",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "Post content to multiple social media platforms at the same time, all-in one place. Cross posting made easy.",
+  "who": "中小企业与创业者",
+  "pricing": "free、$9/mo、free",
+  "business": "免费增值 + 订阅"
+ },
+ "kpi": {
+  "revenue30d": "US$43.8K",
+  "mrr": "US$48.2K",
+  "runRate": "US$578.4K",
+  "ratio": 0.91,
+  "revenueMix": "subscription-led"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "Post content to multiple social media platforms at the same time, all-in one place. Cross posting made easy.",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：社交媒体；客群：中小企业与创业者。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$48.2K，近 30 天收入 US$43.8K。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：free、$9/mo、free。",
+     "tag": "事实"
+    },
+    {
+     "text": "商业模式：免费增值 + 订阅。",
+     "tag": "推算"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：post bridge - social media scheduling for everyone。",
+     "tag": "事实"
+    },
+    {
+     "text": "开源分发：公开 GitHub 仓库 post-bridge-hq/agent-mode（17 Star），仓库本身是获客与信任背书入口。",
+     "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://post-bridge.com/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "近 30 天收入与 MRR 基本持平（0.91 倍），以经常性订阅为主。",
+     "tag": "推算"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$578.4K。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "官网公开社媒入口：GitHub post-bridge-hq/agent-mode、LinkedIn company/post-bridge。",
+     "tag": "事实"
+    },
+    {
+     "text": "已被公开目录收录：IndieAI Directory。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "公开 GitHub 仓库创建于 2026-03-04（仓库创建时间，不等于产品上线时间）。",
+     "tag": "事实"
+    },
+    {
+     "text": "仓库最近一次公开推送：2026-11-17。",
+     "tag": "事实"
+    },
+    {
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：How to Schedule Instagram Posts in 2026 (Free Options and Limits)、How to Turn a YouTube Video into TikToks, Reels and Shorts、9 Best Social Media Management Tools for Small Businesses (2026)。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "经常性订阅为主，优先做留存与扩展收入（seat/usage 升级），而非一次性促销。",
+     "tag": "推测"
+    },
+    {
+     "text": "存在免费层：优化 free→paid 转化触发点（用量上限/高级功能墙），避免免费层过度消耗成本。",
+     "tag": "推测"
+    },
+    {
+     "text": "赛道打法参考：社媒排程/内容分发类，增长靠自身产品做社媒证明 + 创作者口碑。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/post-bridge",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · post-bridge.com",
+   "url": "https://post-bridge.com/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网定价页",
+   "url": "https://post-bridge.com/pricing",
+   "tag": "事实"
+  },
+  {
+   "title": "IndieAI Directory",
+   "url": "https://indieai.directory/tools/post-bridge/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://post-bridge.com/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "公开 GitHub 仓库 · post-bridge-hq/agent-mode",
+   "url": "https://github.com/post-bridge-hq/agent-mode",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · LinkedIn",
+   "url": "https://www.linkedin.com/company/post-bridge",
+   "tag": "事实"
+  }
+ ]
+}

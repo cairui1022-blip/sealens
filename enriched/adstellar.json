@@ -56,6 +56,10 @@
     {
      "text": "官网标题：AdStellar AI | AI Ad Campaign Builder For Meta Ads。",
      "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://adstellar.ai/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
     }
    ]
   },
@@ -95,8 +99,8 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：Blog Articles、What Is OAuth? How It Works and Why Your Meta Ad Tools Depend on It、7 Strategies to Master OAuth: An OAuth Tutorial for Meta Ads Marketers and Builders。",
+     "tag": "事实"
     }
    ]
   },
@@ -143,6 +147,11 @@
   {
    "title": "官网条款页",
    "url": "https://adstellar.ai/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://adstellar.ai/blog",
    "tag": "事实"
   }
  ]

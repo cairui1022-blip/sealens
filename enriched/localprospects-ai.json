@@ -56,6 +56,10 @@
     {
      "text": "官网标题：LocalProspects.ai | AI-Powered Local Lead Generation。",
      "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://localprospects.ai/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
     }
    ]
   },
@@ -95,8 +99,8 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：Best GMap Data Extractor Alternatives (2026): It Doesn&#x27;t Scrape Google Maps、Best Instant Data Scraper Alternatives (2026): Faster, Free, No Tracking、Best Maps Scraper &amp; Leads Extractor Alternatives (2026)。",
+     "tag": "事实"
     }
    ]
   },
@@ -138,6 +142,11 @@
   {
    "title": "官网条款页",
    "url": "https://localprospects.ai/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://localprospects.ai/blog",
    "tag": "事实"
   }
  ]

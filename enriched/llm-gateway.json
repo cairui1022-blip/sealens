@@ -56,6 +56,14 @@
     {
      "text": "官网标题：LLM Gateway — Open-Source LLM API Gateway for 250+ Models。",
      "tag": "事实"
+    },
+    {
+     "text": "开源分发：公开 GitHub 仓库 theopenco/llmgateway（1,750 Star），仓库本身是获客与信任背书入口。",
+     "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://llmgateway.io/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
     }
    ]
   },
@@ -84,8 +92,12 @@
    "titleKey": "tocSocial",
    "bullets": [
     {
-     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
-     "tag": "推测"
+     "text": "官网公开社媒入口：GitHub theopenco/llmgateway、GitHub theopenco/llmgateway-ai-sdk-provider、X llmgateway。",
+     "tag": "事实"
+    },
+    {
+     "text": "GitHub 仓库公开 topics：ai、ai-gateway、analytics、anthropic、api-key-management、claude。",
+     "tag": "事实"
     }
    ]
   },
@@ -95,8 +107,16 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "公开 GitHub 仓库创建于 2025-04-12（仓库创建时间，不等于产品上线时间）。",
+     "tag": "事实"
+    },
+    {
+     "text": "仓库最近一次公开推送：2026-11-19。",
+     "tag": "事实"
+    },
+    {
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：How to Generate SVGs with AI Through One API、Find Idle LLM Projects and Clean Them Up in One Place、GitHub Copilot Long-Context Pricing: What You Pay and Where It Hides。",
+     "tag": "事实"
     }
    ]
   },
@@ -143,6 +163,26 @@
   {
    "title": "官网条款页",
    "url": "https://llmgateway.io/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://llmgateway.io/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "公开 GitHub 仓库 · theopenco/llmgateway",
+   "url": "https://github.com/theopenco/llmgateway",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · GitHub",
+   "url": "https://github.com/theopenco/llmgateway-ai-sdk-provider",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/llmgateway",
    "tag": "事实"
   }
  ]

@@ -1,0 +1,154 @@
+{
+ "slug": "aipeekaboo-com",
+ "name": "AI Peekaboo",
+ "domain": "aipeekaboo.com",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "Track and improve your brand visibility across ChatGPT, Gemini, Google AIO, Perplexity and Google AI Mode. The AI Visibility tool for agencies and brands.",
+  "who": "中小企业与创业者",
+  "pricing": "$100/mo、Free、$100/mo、Free",
+  "business": "免费增值 + 订阅"
+ },
+ "kpi": {
+  "revenue30d": null,
+  "mrr": "US$20.0K",
+  "runRate": "US$240.0K",
+  "ratio": 0.0,
+  "revenueMix": "unknown"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "Track and improve your brand visibility across ChatGPT, Gemini, Google AIO, Perplexity and Google AI Mode. The AI Visibility tool for agencies and brands.",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：营销；客群：中小企业与创业者。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$20.0K，近 30 天收入 None。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：$100/mo、Free、$100/mo、Free。",
+     "tag": "事实"
+    },
+    {
+     "text": "商业模式：免费增值 + 订阅。",
+     "tag": "推算"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：AI Peekaboo | AI Visibility &amp; Analytics tool for AI SEO.。",
+     "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://aipeekaboo.com/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "收入结构待补充。",
+     "tag": "推测"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$240.0K。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：Get a free visibility report、HubSpot AEO vs Profound vs AI Peekaboo、Best Perplexity Visibility Trackers for 2026。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "存在免费层：优化 free→paid 转化触发点（用量上限/高级功能墙），避免免费层过度消耗成本。",
+     "tag": "推测"
+    },
+    {
+     "text": "赛道打法参考：营销类靠 Reddit/社区外reach + 案例研究。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/aipeekaboo-com",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · aipeekaboo.com",
+   "url": "https://aipeekaboo.com/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网定价页",
+   "url": "https://aipeekaboo.com/pricing",
+   "tag": "事实"
+  },
+  {
+   "title": "官网条款页",
+   "url": "https://aipeekaboo.com/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://aipeekaboo.com/blog",
+   "tag": "事实"
+  }
+ ]
+}

@@ -13,8 +13,8 @@
   "revenue30d": "US$17.6K",
   "mrr": "US$9,067",
   "runRate": "US$108.8K",
-  "ratio": 0.0,
-  "revenueMix": "unknown"
+  "ratio": 1.94,
+  "revenueMix": "one-time-heavy"
  },
  "sections": [
   {
@@ -56,6 +56,10 @@
     {
      "text": "官网标题：Chessigma – Free Unlimited Chess Game Analysis &amp; Reports。",
      "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://chessigma.com/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
     }
    ]
   },
@@ -65,8 +69,8 @@
    "titleKey": "tocPlays",
    "bullets": [
     {
-     "text": "收入结构待补充。",
-     "tag": "推测"
+     "text": "近 30 天收入约为 MRR 的 1.9 倍，超出部分很可能来自年付或一次性买断。",
+     "tag": "推算"
     },
     {
      "text": "按 MRR 年化运行率约 US$108.8K。",
@@ -84,8 +88,8 @@
    "titleKey": "tocSocial",
    "bullets": [
     {
-     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
-     "tag": "推测"
+     "text": "官网公开社媒入口：X chessigma_com、YouTube @chessigma-com。",
+     "tag": "事实"
     }
    ]
   },
@@ -95,8 +99,8 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：Best chess AI tools in 2026: an honest roundup、Is Using Chess AI Cheating? Where the Line Actually Is、Chess AI Helper: How to Use One Without Wrecking Your Game。",
+     "tag": "事实"
     }
    ]
   },
@@ -105,6 +109,10 @@
    "num": "06",
    "titleKey": "tocAdvice",
    "bullets": [
+    {
+     "text": "现金流前置靠年付/买断，但需盯续费与一次性收入可持续性；建议补订阅锚点提升 LTV。",
+     "tag": "推测"
+    },
     {
      "text": "存在免费层：优化 free→paid 转化触发点（用量上限/高级功能墙），避免免费层过度消耗成本。",
      "tag": "推测"
@@ -139,6 +147,21 @@
   {
    "title": "官网条款页",
    "url": "https://chessigma.com/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://chessigma.com/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/chessigma_com",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · YouTube",
+   "url": "https://www.youtube.com/@chessigma-com",
    "tag": "事实"
   }
  ]

@@ -56,6 +56,10 @@
     {
      "text": "官网标题：Dropmagic — Turn any product into a store in 5 minutes。",
      "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://dropmagic.ai/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
     }
    ]
   },
@@ -84,8 +88,8 @@
    "titleKey": "tocSocial",
    "bullets": [
     {
-     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
-     "tag": "推测"
+     "text": "官网公开社媒入口：Instagram dropmagic.ai、X dropmagic_ai、X dropmagicai、YouTube @dropmagic。",
+     "tag": "事实"
     }
    ]
   },
@@ -95,8 +99,8 @@
    "titleKey": "tocTimeline",
    "bullets": [
     {
-     "text": "上线与关键节点时间线待补充。",
-     "tag": "推测"
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：What Is Dropshipping and How Does It Work?、Is Dropshipping Still Profitable in 2026?、Step 1: Find a Profitable Niche。",
+     "tag": "事实"
     }
    ]
   },
@@ -134,6 +138,31 @@
   {
    "title": "官网定价页",
    "url": "https://dropmagic.ai/pricing",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://dropmagic.ai/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · Instagram",
+   "url": "https://www.instagram.com/dropmagic.ai",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/dropmagic_ai",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/dropmagicai",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · YouTube",
+   "url": "https://www.youtube.com/@dropmagic",
    "tag": "事实"
   }
  ]

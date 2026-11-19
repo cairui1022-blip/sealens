@@ -1,0 +1,165 @@
+{
+ "slug": "controlresell",
+ "name": "ControlResell",
+ "domain": "controlresell.com",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "L&#x27;OS tout-en-un pour revendeurs pro. Automatisez Vinted, centralisez la négo, expédiez en dormant. Gagnez 20h par semaine.",
+  "who": "中小企业与创业者",
+  "pricing": "待补充",
+  "business": "待补充"
+ },
+ "kpi": {
+  "revenue30d": "US$26.4K",
+  "mrr": "US$22.6K",
+  "runRate": "US$271.2K",
+  "ratio": 1.17,
+  "revenueMix": "balanced"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "L&#x27;OS tout-en-un pour revendeurs pro. Automatisez Vinted, centralisez la négo, expédiez en dormant. Gagnez 20h par semaine.",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：电商；客群：中小企业与创业者。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$22.6K，近 30 天收入 US$26.4K。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：待补充。",
+     "tag": "推测"
+    },
+    {
+     "text": "商业模式：待补充。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：Automatisez votre resell Vinted &amp; Shopify | ControlResell。",
+     "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://controlresell.com/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "近 30 天收入为 MRR 的 1.2 倍，订阅与一次性混合。",
+     "tag": "推算"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$271.2K。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "官网公开社媒入口：Instagram controlresell、LinkedIn company/controlresell、X controlresell、YouTube @controlresell。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：Programmer ses annonces Vinted en 2026、Chaque minute sans ControlResell, c&#x27;est une vente en moins.。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "赛道打法参考：靠垂直社区 + 内容 SEO 获客。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/controlresell",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · controlresell.com",
+   "url": "https://controlresell.com/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网条款页",
+   "url": "https://controlresell.com/terms",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://controlresell.com/blog",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · Instagram",
+   "url": "https://www.instagram.com/controlresell",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · LinkedIn",
+   "url": "https://www.linkedin.com/company/controlresell",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · X",
+   "url": "https://x.com/controlresell",
+   "tag": "事实"
+  },
+  {
+   "title": "官网公开社媒入口 · YouTube",
+   "url": "https://www.youtube.com/@controlresell",
+   "tag": "事实"
+  }
+ ]
+}

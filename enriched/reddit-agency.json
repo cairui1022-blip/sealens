@@ -1,0 +1,148 @@
+{
+ "slug": "reddit-agency",
+ "name": "Reddit Agency",
+ "domain": "redditagency.com",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "We&#x27;ll get ChatGPT &amp; Google to recommend your brand — or you don&#x27;t pay.",
+  "who": "中小企业与创业者",
+  "pricing": "Free",
+  "business": "免费增值 + 订阅"
+ },
+ "kpi": {
+  "revenue30d": "US$69.0K",
+  "mrr": "US$38.2K",
+  "runRate": "US$458.4K",
+  "ratio": 1.81,
+  "revenueMix": "one-time-heavy"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "We&#x27;ll get ChatGPT &amp; Google to recommend your brand — or you don&#x27;t pay.",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：营销；客群：中小企业与创业者。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$38.2K，近 30 天收入 US$69.0K。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：Free。",
+     "tag": "事实"
+    },
+    {
+     "text": "商业模式：免费增值 + 订阅。",
+     "tag": "推算"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：Reddit Marketing Agency | Rank on AI &amp; Google。",
+     "tag": "事实"
+    },
+    {
+     "text": "内容 SEO：官网维护博客/更新日志（https://redditagency.com/blog），是可核实的自有内容渠道。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "近 30 天收入约为 MRR 的 1.8 倍，超出部分很可能来自年付或一次性买断。",
+     "tag": "推算"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$458.4K。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "官网博客/更新日志公开条目（页面未标注日期）：Troubleshoot: Why Isn&#x27;t My Website Showing Up On Google?、Google Paid Search Cost: How to Budget &amp; Cut Expenses、Maximize Reach: When Should You Use Responsive Display Ads?。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "现金流前置靠年付/买断，但需盯续费与一次性收入可持续性；建议补订阅锚点提升 LTV。",
+     "tag": "推测"
+    },
+    {
+     "text": "存在免费层：优化 free→paid 转化触发点（用量上限/高级功能墙），避免免费层过度消耗成本。",
+     "tag": "推测"
+    },
+    {
+     "text": "赛道打法参考：营销类靠 Reddit/社区外reach + 案例研究。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/reddit-agency",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · redditagency.com",
+   "url": "https://redditagency.com/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网博客/更新日志",
+   "url": "https://redditagency.com/blog",
+   "tag": "事实"
+  }
+ ]
+}
