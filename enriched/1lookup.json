@@ -1,0 +1,149 @@
+{
+ "slug": "1lookup",
+ "name": "1Lookup",
+ "domain": "1lookup.io",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "Phone, email, IP and social data your code or your AI agent can call. 76 products in one API, priced per lookup, with a 7-day free trial.",
+  "who": "中小企业与创业者",
+  "pricing": "$99/mo、Free、Free",
+  "business": "免费增值 + 订阅"
+ },
+ "kpi": {
+  "revenue30d": "US$540.5K",
+  "mrr": "US$256.3K",
+  "runRate": "US$3.08M",
+  "ratio": 2.11,
+  "revenueMix": "one-time-heavy"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "Phone, email, IP and social data your code or your AI agent can call. 76 products in one API, priced per lookup, with a 7-day free trial.",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：SaaS；客群：中小企业与创业者。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$256.3K，近 30 天收入 US$540.5K。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：$99/mo、Free、Free。",
+     "tag": "事实"
+    },
+    {
+     "text": "商业模式：免费增值 + 订阅。",
+     "tag": "推算"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：1Lookup - Phone, Email, IP &amp; Social Data APIs for AI Agents。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "近 30 天收入约为 MRR 的 2.1 倍，超出部分很可能来自年付或一次性买断。",
+     "tag": "推算"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$3.08M。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "上线与关键节点时间线待补充。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "现金流前置靠年付/买断，但需盯续费与一次性收入可持续性；建议补订阅锚点提升 LTV。",
+     "tag": "推测"
+    },
+    {
+     "text": "存在免费层：优化 free→paid 转化触发点（用量上限/高级功能墙），避免免费层过度消耗成本。",
+     "tag": "推测"
+    },
+    {
+     "text": "赛道打法参考：靠垂直社区 + 内容 SEO 获客。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/1lookup",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · 1lookup.io",
+   "url": "https://1lookup.io/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网定价页",
+   "url": "https://1lookup.io/pricing",
+   "tag": "事实"
+  },
+  {
+   "title": "官网条款页",
+   "url": "https://1lookup.io/terms",
+   "tag": "事实"
+  }
+ ]
+}

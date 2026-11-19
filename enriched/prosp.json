@@ -1,0 +1,149 @@
+{
+ "slug": "prosp",
+ "name": "Prosp",
+ "domain": "prosp.ai",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "Prosp sends LinkedIn outreach so personal prospects actually reply - AI writes the message and a voice note in your voice for each prospect. Built for agencies and sales teams.",
+  "who": "代理商与服务商",
+  "pricing": "free、free",
+  "business": "免费增值 + 订阅"
+ },
+ "kpi": {
+  "revenue30d": "US$98.5K",
+  "mrr": "US$128.0K",
+  "runRate": "US$1.54M",
+  "ratio": 0.77,
+  "revenueMix": "subscription-led"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "Prosp sends LinkedIn outreach so personal prospects actually reply - AI writes the message and a voice note in your voice for each prospect. Built for agencies and sales teams.",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：人工智能；客群：代理商与服务商。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$128.0K，近 30 天收入 US$98.5K。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：free、free。",
+     "tag": "事实"
+    },
+    {
+     "text": "商业模式：免费增值 + 订阅。",
+     "tag": "推算"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：Prosp | LinkedIn outreach so personal, prospects actually reply。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "近 30 天现金收入低于 MRR（0.77 倍）：MRR 可能含年付合约折算或快照口径差异，经常性订阅为主，现金回收节奏待核实。",
+     "tag": "推算"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$1.54M。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "上线与关键节点时间线待补充。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "经常性订阅为主，优先做留存与扩展收入（seat/usage 升级），而非一次性促销。",
+     "tag": "推测"
+    },
+    {
+     "text": "存在免费层：优化 free→paid 转化触发点（用量上限/高级功能墙），避免免费层过度消耗成本。",
+     "tag": "推测"
+    },
+    {
+     "text": "赛道打法参考：AI 类靠 SEO/AEO + 目录收录 + 用例内容获客。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/prosp",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · prosp.ai",
+   "url": "https://prosp.ai/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网定价页",
+   "url": "https://prosp.ai/pricing",
+   "tag": "事实"
+  },
+  {
+   "title": "官网条款页",
+   "url": "https://prosp.ai/terms",
+   "tag": "事实"
+  }
+ ]
+}

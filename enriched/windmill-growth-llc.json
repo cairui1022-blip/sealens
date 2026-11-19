@@ -1,0 +1,139 @@
+{
+ "slug": "windmill-growth-llc",
+ "name": "Windmill Growth",
+ "domain": "windmillgrowth.com",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "Done-for-you LinkedIn ghostwriting and founder branding for B2B leaders. Turn executive expertise into authority, qualified pipeline, and measurable growth.",
+  "who": "中小企业与创业者",
+  "pricing": "$650 /mo、free",
+  "business": "免费增值 + 订阅"
+ },
+ "kpi": {
+  "revenue30d": "US$114.5K",
+  "mrr": "US$118.3K",
+  "runRate": "US$1.42M",
+  "ratio": 0.97,
+  "revenueMix": "subscription-led"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "Done-for-you LinkedIn ghostwriting and founder branding for B2B leaders. Turn executive expertise into authority, qualified pipeline, and measurable growth.",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：营销；客群：中小企业与创业者。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$118.3K，近 30 天收入 US$114.5K。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：$650 /mo、free。",
+     "tag": "事实"
+    },
+    {
+     "text": "商业模式：免费增值 + 订阅。",
+     "tag": "推算"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：Windmill Growth | LinkedIn Ghostwriting for B2B Founders。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "近 30 天收入与 MRR 基本持平（0.97 倍），以经常性订阅为主。",
+     "tag": "推算"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$1.42M。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "上线与关键节点时间线待补充。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "经常性订阅为主，优先做留存与扩展收入（seat/usage 升级），而非一次性促销。",
+     "tag": "推测"
+    },
+    {
+     "text": "存在免费层：优化 free→paid 转化触发点（用量上限/高级功能墙），避免免费层过度消耗成本。",
+     "tag": "推测"
+    },
+    {
+     "text": "赛道打法参考：营销类靠 Reddit/社区外reach + 案例研究。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/windmill-growth-llc",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · windmillgrowth.com",
+   "url": "https://windmillgrowth.com/",
+   "tag": "事实"
+  }
+ ]
+}

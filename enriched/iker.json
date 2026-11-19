@@ -1,0 +1,136 @@
+{
+ "slug": "iker",
+ "name": "Gomotion AI",
+ "domain": "gomotion.io",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "Create scroll-stopping, motion-designed videos from a single prompt. GoMotion is a cutting-edge AI model that generates professional motion design",
+  "who": "创作者",
+  "pricing": "待补充",
+  "business": "待补充"
+ },
+ "kpi": {
+  "revenue30d": "US$96.0K",
+  "mrr": "US$74.7K",
+  "runRate": "US$896.4K",
+  "ratio": 1.29,
+  "revenueMix": "balanced"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "Create scroll-stopping, motion-designed videos from a single prompt. GoMotion is a cutting-edge AI model that generates professional motion design",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：教育；客群：创作者。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$74.7K，近 30 天收入 US$96.0K。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：待补充。",
+     "tag": "推测"
+    },
+    {
+     "text": "商业模式：待补充。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：Gomotion。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "近 30 天收入为 MRR 的 1.3 倍，订阅与一次性混合。",
+     "tag": "推算"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$896.4K。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "上线与关键节点时间线待补充。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "赛道打法参考：教育类靠教程视频 + 创作者联盟。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/iker",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · gomotion.io",
+   "url": "https://gomotion.io/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网条款页",
+   "url": "https://gomotion.io/terms",
+   "tag": "事实"
+  }
+ ]
+}

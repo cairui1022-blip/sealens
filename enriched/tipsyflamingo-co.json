@@ -1,0 +1,141 @@
+{
+ "slug": "tipsyflamingo-co",
+ "name": "Flamingo Cards",
+ "domain": "tipsyflamingo.co",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "Flamingo Cards（tipsyflamingo.co）是一款对话卡牌产品：提供“深度问题”“情侣问题”等主题卡组，并通过安卓应用呈现，其官方标语是“making memories one card at a time”（一张卡，一段回忆）。",
+  "who": "个人用户",
+  "pricing": "待补充",
+  "business": "待补充"
+ },
+ "kpi": {
+  "revenue30d": null,
+  "mrr": "US$239.4K",
+  "runRate": "US$2.87M",
+  "ratio": 0.0,
+  "revenueMix": "unknown"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "Flamingo Cards（tipsyflamingo.co）是一款对话卡牌产品：提供“深度问题”“情侣问题”等主题卡组，并通过安卓应用呈现，其官方标语是“making memories one card at a time”（一张卡，一段回忆）。",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：电商；客群：个人用户。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$239.4K，近 30 天收入 None。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：待补充。",
+     "tag": "推测"
+    },
+    {
+     "text": "商业模式：待补充。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：Flamingo Cards。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "收入结构待补充。",
+     "tag": "推测"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$2.87M。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "上线与关键节点时间线待补充。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "赛道打法参考：靠垂直社区 + 内容 SEO 获客。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/tipsyflamingo-co",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · tipsyflamingo.co",
+   "url": "https://tipsyflamingo.co/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网定价页",
+   "url": "https://tipsyflamingo.co/pricing",
+   "tag": "事实"
+  },
+  {
+   "title": "官网条款页",
+   "url": "https://tipsyflamingo.co/terms",
+   "tag": "事实"
+  }
+ ]
+}

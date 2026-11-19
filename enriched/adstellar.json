@@ -1,0 +1,149 @@
+{
+ "slug": "adstellar",
+ "name": "AdStellar",
+ "domain": "adstellar.ai",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "AdStellar uses agentic AI to analyze past performance, build full ad campaigns, generate new creatives, and launch winning ads with one click.",
+  "who": "中小企业与创业者",
+  "pricing": "$100/mo、Free、Free",
+  "business": "免费增值 + 订阅"
+ },
+ "kpi": {
+  "revenue30d": "US$8,886",
+  "mrr": "US$9,353",
+  "runRate": "US$112.2K",
+  "ratio": 0.95,
+  "revenueMix": "subscription-led"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "AdStellar uses agentic AI to analyze past performance, build full ad campaigns, generate new creatives, and launch winning ads with one click.",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：人工智能；客群：中小企业与创业者。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$9,353，近 30 天收入 US$8,886。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：$100/mo、Free、Free。",
+     "tag": "事实"
+    },
+    {
+     "text": "商业模式：免费增值 + 订阅。",
+     "tag": "推算"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：AdStellar AI | AI Ad Campaign Builder For Meta Ads。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "近 30 天收入与 MRR 基本持平（0.95 倍），以经常性订阅为主。",
+     "tag": "推算"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$112.2K。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "上线与关键节点时间线待补充。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "经常性订阅为主，优先做留存与扩展收入（seat/usage 升级），而非一次性促销。",
+     "tag": "推测"
+    },
+    {
+     "text": "存在免费层：优化 free→paid 转化触发点（用量上限/高级功能墙），避免免费层过度消耗成本。",
+     "tag": "推测"
+    },
+    {
+     "text": "赛道打法参考：AI 类靠 SEO/AEO + 目录收录 + 用例内容获客。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/adstellar",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · adstellar.ai",
+   "url": "https://adstellar.ai/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网定价页",
+   "url": "https://adstellar.ai/pricing",
+   "tag": "事实"
+  },
+  {
+   "title": "官网条款页",
+   "url": "https://adstellar.ai/terms",
+   "tag": "事实"
+  }
+ ]
+}

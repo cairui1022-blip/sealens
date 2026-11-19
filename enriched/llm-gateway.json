@@ -1,0 +1,149 @@
+{
+ "slug": "llm-gateway",
+ "name": "LLM Gateway",
+ "domain": "llmgateway.io",
+ "generatedAt": "2026-11-19",
+ "glance": {
+  "what": "Open-source LLM API gateway: route requests to 250+ models from 40+ providers, including OpenAI, Anthropic and Google, through one OpenAI-compatible API.",
+  "who": "开发者",
+  "pricing": "Free、$9/mo、free",
+  "business": "免费增值 + 订阅"
+ },
+ "kpi": {
+  "revenue30d": "US$259.5K",
+  "mrr": "US$78.8K",
+  "runRate": "US$945.6K",
+  "ratio": 3.29,
+  "revenueMix": "one-time-heavy"
+ },
+ "sections": [
+  {
+   "id": "now",
+   "num": "01",
+   "titleKey": "tocNow",
+   "bullets": [
+    {
+     "text": "Open-source LLM API gateway: route requests to 250+ models from 40+ providers, including OpenAI, Anthropic and Google, through one OpenAI-compatible API.",
+     "tag": "事实"
+    },
+    {
+     "text": "赛道：人工智能；客群：开发者。",
+     "tag": "事实"
+    },
+    {
+     "text": "公开 MRR US$78.8K，近 30 天收入 US$259.5K。",
+     "tag": "事实"
+    },
+    {
+     "text": "定价信号：Free、$9/mo、free。",
+     "tag": "事实"
+    },
+    {
+     "text": "商业模式：免费增值 + 订阅。",
+     "tag": "推算"
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "num": "02",
+   "titleKey": "tocMap",
+   "bullets": [
+    {
+     "text": "流量渠道全景待补充：需 Similarweb/公开流量估算核实。",
+     "tag": "推测"
+    },
+    {
+     "text": "官网标题：LLM Gateway — Open-Source LLM API Gateway for 250+ Models。",
+     "tag": "事实"
+    }
+   ]
+  },
+  {
+   "id": "plays",
+   "num": "03",
+   "titleKey": "tocPlays",
+   "bullets": [
+    {
+     "text": "近 30 天收入约为 MRR 的 3.3 倍，超出部分很可能来自年付或一次性买断。",
+     "tag": "推算"
+    },
+    {
+     "text": "按 MRR 年化运行率约 US$945.6K。",
+     "tag": "推算"
+    },
+    {
+     "text": "具体增长打法待补充：需社媒/目录公开内容核实。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "num": "04",
+   "titleKey": "tocSocial",
+   "bullets": [
+    {
+     "text": "社媒分布待补充：X/Reddit/YouTube 公开帖核实中。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "timeline",
+   "num": "05",
+   "titleKey": "tocTimeline",
+   "bullets": [
+    {
+     "text": "上线与关键节点时间线待补充。",
+     "tag": "推测"
+    }
+   ]
+  },
+  {
+   "id": "advice",
+   "num": "06",
+   "titleKey": "tocAdvice",
+   "bullets": [
+    {
+     "text": "现金流前置靠年付/买断，但需盯续费与一次性收入可持续性；建议补订阅锚点提升 LTV。",
+     "tag": "推测"
+    },
+    {
+     "text": "存在免费层：优化 free→paid 转化触发点（用量上限/高级功能墙），避免免费层过度消耗成本。",
+     "tag": "推测"
+    },
+    {
+     "text": "赛道打法参考：AI 类靠 SEO/AEO + 目录收录 + 用例内容获客。",
+     "tag": "推测"
+    },
+    {
+     "text": "同赛道已有多个公开收入样本，先在项目库横向对比定价与收入结构再切入。",
+     "tag": "推测"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "公开项目页（元数据与收入）",
+   "url": "https://bizpeel.com/zh/project/llm-gateway",
+   "tag": "事实"
+  },
+  {
+   "title": "官网首页 · llmgateway.io",
+   "url": "https://llmgateway.io/",
+   "tag": "事实"
+  },
+  {
+   "title": "官网定价页",
+   "url": "https://llmgateway.io/pricing",
+   "tag": "事实"
+  },
+  {
+   "title": "官网条款页",
+   "url": "https://llmgateway.io/terms",
+   "tag": "事实"
+  }
+ ]
+}
