@@ -1,0 +1,1 @@
+import{r as e}from"./useSeo-eAMwqWOB.js";function t(t){let n=new URLSearchParams;t.title&&n.set(`title`,t.title),t.body&&n.set(`body`,t.body),t.labels&&t.labels.length>0&&n.set(`labels`,t.labels.join(`,`));let r=n.toString();return r?`${e.issuesUrl}?${r}`:e.issuesUrl}export{t};
