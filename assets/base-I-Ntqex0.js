@@ -1,0 +1,1 @@
+var e={BASE_URL:`/sealens/`,DEV:!1,MODE:`production`,PROD:!0,SSR:!1}.BASE_URL??`/`,t=t=>`${e}${t.replace(/^\/+/,``)}`;export{t};
